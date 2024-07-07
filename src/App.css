@@ -1,0 +1,13 @@
+.section1 {
+    width: 90vw;
+    background-image: url(./imgs/357152-svetik_1920x1080.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    overflow-x: hidden;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
